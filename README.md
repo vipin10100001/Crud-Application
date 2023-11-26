@@ -1,2 +1,2 @@
 # Crud-Application
-A Crud application made in Next js and MongoDB
+A Crud application made in Next js and MongoDB.
